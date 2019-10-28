@@ -1,0 +1,45 @@
+# compiled output
+build
+coverage
+dist
+tmp
+factories
+target
+out
+
+# dependencies
+node_modules
+bower_components
+
+# IDEs and editors
+.idea
+.vscode
+.project
+.classpath
+*.launch
+.settings/
+workarea.iml
+*.iml
+rebel.xml
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+*.orig
+*.log
+*.bak
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+#System Files
+.DS_Store
+Thumbs.db
+
+**/node_modules
+**/node
+**/target
+collections/package
+activemq-data
